@@ -6,7 +6,7 @@
 
 > Do meaningful things with like-minded people.
 
-We're not a big tech company — we're a small engineering team from **Shenzhen, China**, building real projects, keeping them open source, and improving with every commit.
+We're a small engineering team from **Shenzhen, China**, building real projects, keeping them open source, and improving with every commit.
 
 ---
 
